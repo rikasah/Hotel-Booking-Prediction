@@ -32,7 +32,7 @@ Youtube Presentation : https://youtu.be/k49YFMUZ0ok
 
 File Presentation : https://www.canva.com/design/DAEpy8CWxzU/Ejvf2fjIHSEYDt06o0-MBA/view?utm_content=DAEpy8CWxzU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
 
-LinkedIn Post : 
+LinkedIn Post : https://www.linkedin.com/posts/rikasahriana_hotel-booking-prediction-activity-6851057355434663936-2Nvg
 
 # Data Dictionary
 
