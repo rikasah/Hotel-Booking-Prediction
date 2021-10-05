@@ -26,6 +26,11 @@ The Hotel Booking Prediction project will explain the workflow for assessing som
 
 Hotel is a business that depends on the number of visitors. In order to get maximum profit is requires a lot of visitors. Hotels also have a certain capacity, so there are limitations in accepting visitors. Because of these problems, the hotel provides a booking system, so that visitors can order services in advance and get services according to the desired day. 
 
+#Project Link
+Youtube Presentation : https://youtu.be/k49YFMUZ0ok
+File Presentation : https://www.canva.com/design/DAEpy8CWxzU/Ejvf2fjIHSEYDt06o0-MBA/view?utm_content=DAEpy8CWxzU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+LinkedIn Post : 
+
 # Data Dictionary
 
 hotelHotel (H1 = Resort Hotel or H2 = City Hotel)
