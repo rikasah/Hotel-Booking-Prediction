@@ -1,0 +1,2 @@
+# Hotel-Booking-Prediction
+The Hotel Booking Prediction project will explain the workflow for assessing someone, whether to cancel the booking or not. This assessment is based on a machine learning algorithm, which will provide predictions to the customer who makes a booking, then from the data provided it will be predicted about the cancellation. This project also contains various analyzes obtained through EDA and provides various insights on hotels to develop their business more effectively.
